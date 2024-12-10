@@ -1,0 +1,8 @@
+name: example-coprocessor-custom-auth-directive
+description: A demonstration of how to set up a JS coprocessor that applies some
+  custom auth checks.
+tags:
+  - Javascript
+  - Authentication
+  - Router
+  - Coprocessor
